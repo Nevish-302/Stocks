@@ -13,12 +13,16 @@ cd your-repo-name
 npm install
 ```
 
+Note: Generate the dataset using the 1st command to use the search feature well
+
 ```bash
+# Generate mode
+npm run gen
+
 # Development mode
 npm run dev
 
-# Generate mode
-npm run gen
+
 ```
 
 ## 📁 Project Structure
